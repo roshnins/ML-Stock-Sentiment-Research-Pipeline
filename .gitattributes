@@ -2,4 +2,4 @@
 * text=auto
 
 # Set Jupyter notebook as documentation to exclude from Language count
-.ipynb linguist-documentation
+*.ipynb linguist-documentation
